@@ -1,7 +1,8 @@
 # HRD_RSP_NAS
 
 Server 101 With Pi
-- Making a server(protocol and SW)
+- Components of a server
+- How server works (steps and protocols)
 - Securing a server
 
 with help from
