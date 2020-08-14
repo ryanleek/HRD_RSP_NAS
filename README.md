@@ -2,8 +2,7 @@
 
 Server 101 With Pi
 - Components of a server
-- How server works (steps and protocols)
-- Securing a server
+- How server works and securing it
 - Getting close with Linux and Shell
 
 with help from
