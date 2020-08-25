@@ -6,7 +6,7 @@ Server 101 With Pi
 - Getting close with Linux and Shell
 
 STEPS (working with Windows)
-1. Fit Raspberry Pi for Server(Static IP, passwd, sshd_config, install ufw)
+1. Fit Raspberry Pi for Server(Static IP, passwd, sshd_config, ufw)
 2. Create shh keys with PuTTY and send public key to Pi(Server)
 3. Install Docker
 
