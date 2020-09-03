@@ -8,7 +8,7 @@ Server 101 With Pi
 STEPS (working with Windows)
 1. Fit Raspberry Pi for Server(Static IP, passwd, sshd_config, ufw)
 2. Create shh keys with PuTTY and send public key to Pi(Server)
-3. Configure RAID array
+3. Configure RAID array (2x32Gb, RAID 1)
 4. Install Docker
 
 with help from
