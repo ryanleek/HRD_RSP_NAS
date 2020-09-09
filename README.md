@@ -10,7 +10,7 @@ STEPS (working with Windows)
 2. Create shh keys with PuTTY and send public key to Pi(Server)
 3. Configure RAID array (2x32Gb, RAID 1)
 4. Install Docker and edit systemd unit file (/lib/systemd/system/docker.service)
-5. Run Nginx with docker (connect to http://< hostname >.local/)
+5. Run Nginx with Docker (connect to http://< hostname >.local/)
 
 
 with help from
