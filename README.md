@@ -3,7 +3,7 @@
 Server 101 With Pi
 - Components of a server
 - How server works and securing it
-- Getting close with Linux and Shell
+- Experience Linux and Shell environment
 
 STEPS (working with Windows)
 1. Fit Raspberry Pi for Server(Static IP, passwd, sshd_config, ufw)
